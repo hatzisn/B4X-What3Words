@@ -1,6 +1,6 @@
 # B4X-What3Words
 
-This is a b4xlib used in B4A and B4i for getting What3Words to coordinates, coordinates to What3Words and your location to What3Words. It requres my FusedLocation library which you can find here:
+This is a b4xlib used in B4A and B4i for getting What3Words to coordinates, coordinates to What3Words and your location to What3Words. You can create from the code a b4xlib and make it a lot easier to use it by creating a >>zip<< file adding in there the manifest.txt as well as the W3W.bas file in B4A folder and at last change the extension to b4xlib. It requres my FusedLocation library which you can find here:
 
 https://www.b4x.com/android/forum/threads/b4x-fused-location-b4xlibrary.116055
 
